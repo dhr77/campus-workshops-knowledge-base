@@ -1,6 +1,6 @@
 # campus-workshops-knowledge-base
 
-Knowledge Base for Campus Workshops in REVA University
+Knowledge Base for Campus Workshops in REVA University.
 
 # What we'll be doing today?
 
